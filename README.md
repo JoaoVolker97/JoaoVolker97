@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Volker and I'm a Mechanical Engineering from Proto Alegre, Brazil.</p>
+<p align="left">My name is João Volker and I'm a Mechanical Engineering from Porto Alegre, Brazil.</p>
 
 ###
 
