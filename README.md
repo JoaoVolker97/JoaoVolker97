@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏼‍🎓 I'm graduated as Mechanical Engineering at UFRGS.<br>📚 I'm currently learning Data Science at EBAC<br>🎯 Goals: Work as a Data Scientist<br>⚜️ Scout since 2004</p>
+<p align="left">👨🏼‍🎓 I'm graduated as Mechanical Engineering at UFRGS.<br>📚 I'm currently learning Data Science at EBAC (Escola Britânica de Artes Criativas e Tecnologia) <br>🎯 Goals: Work as a Data Scientist<br>⚜️ Scout since 2004</p>
 
 ###
 
